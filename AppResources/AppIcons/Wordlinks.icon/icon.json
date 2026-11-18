@@ -1,0 +1,44 @@
+{
+  "fill": {
+    "solid": "srgb:0.949020,0.956863,0.980392,1"
+  },
+  "groups": [
+    {
+      "name": "Linked word highlights",
+      "layers": [
+        {
+          "name": "Linked word highlights",
+          "image-name": "linked-highlights.svg"
+        }
+      ],
+      "shadow": {
+        "kind": "neutral",
+        "opacity": 0.22
+      },
+      "translucency": {
+        "enabled": true,
+        "value": 0.12
+      }
+    },
+    {
+      "name": "Reading page and its sentences",
+      "layers": [
+        {
+          "name": "Reading page and its sentences",
+          "image-name": "reading-page.svg"
+        }
+      ],
+      "shadow": {
+        "kind": "neutral",
+        "opacity": 0.22
+      },
+      "translucency": {
+        "enabled": true,
+        "value": 0.12
+      }
+    }
+  ],
+  "supported-platforms": {
+    "squares": "shared"
+  }
+}

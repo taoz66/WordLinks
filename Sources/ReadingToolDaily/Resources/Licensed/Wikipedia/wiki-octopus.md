@@ -1,0 +1,37 @@
+# Octopus
+
+Author: Wikipedia contributors
+Date: 2026-11-18
+Source: [Wikipedia](https://en.wikipedia.org/wiki/Octopus)
+
+An octopus (pl.: octopuses or octopodes) is a soft-bodied, eight-limbed mollusc of the order Octopoda (, ok-TOP-ə-də). The order consists of some 300 species and is grouped within the class Cephalopoda with squids, cuttlefish, and nautiloids. Like other cephalopods, an octopus is bilaterally symmetric with two eyes and a beaked mouth at the centre point of the eight limbs. An octopus can radically deform its shape, enabling it to squeeze through small gaps. They trail their appendages behind them as they swim backwards. The siphon is used for respiration and locomotion (by water jet propulsion). Octopuses have a complex nervous system and excellent sight, and are among the most intelligent and behaviourally diverse invertebrates.
+
+Octopuses inhabit various ocean habitats, including coral reefs, pelagic waters, and the seabed; some live in the intertidal zone and others at abyssal depths. Most species grow quickly, mature early, and are short-lived. In most species, the male uses a specially-adapted arm to deliver sperm directly into the female's mantle cavity, after which he becomes senescent and dies, while the female deposits fertilised eggs in a den and cares for them until they hatch, after which she also dies. They are predators and hunt crustaceans, bivalves, gastropods and fish. Strategies to defend themselves against their own predators include expelling ink, camouflage, and threat displays, the ability to jet quickly through the water and hide, and deceit. All octopuses are venomous, but only the blue-ringed octopuses are known to be deadly to humans.
+
+Octopuses appear in mythology as sea monsters such as the kraken of Norway and the Akkorokamui of the Ainu, and possibly the Gorgons of ancient Greece. A battle with an octopus appears in Victor Hugo's book Toilers of the Sea. Octopuses appear in Japanese shunga erotic art. They are eaten and considered a delicacy by humans in many parts of the world, especially the Mediterranean and Asia.
+
+## Etymology and pluralisation
+
+The scientific Latin term octopus was derived from Ancient Greek ὀκτώπους (oktōpous), a compound form of ὀκτώ (oktō, 'eight') and πούς (pous, 'foot'), itself a variant form of ὀκτάπους, a word used for example by Alexander of Tralles (c. 525 – c. 605).
+
+The standard pluralised form of octopus in English is octopuses; the Ancient Greek plural ὀκτώποδες, octopodes, has also been used historically. The alternative plural octopi is usually considered etymologically incorrect, because it wrongly assumes that octopus is a Latin second-declension -us noun or adjective when, in either Greek or Latin, it is a third-declension noun. Historically, the first plural to commonly appear in English language sources, in the early 19th century, is the Latinate form octopi, followed by the English form octopuses in the latter half of the same century. The Hellenic plural is roughly contemporary in usage, although it is also the rarest.
+
+A Dictionary of Modern English Usage by H. W. Fowler states that the only acceptable plural in English is octopuses, that octopi is misconceived, and octopodes pedantic; the last is nonetheless used frequently enough to be acknowledged by the descriptivist Merriam-Webster 11th Collegiate Dictionary and Webster's New World College Dictionary. The Oxford English Dictionary lists octopuses, octopi, and octopodes, in that order, reflecting frequency of use, calling octopodes rare and noting that octopi is based on a misunderstanding. The New Oxford American Dictionary (3rd Edition, 2010) lists octopuses as the only acceptable pluralisation, and indicates that octopodes is occasionally used, but that octopi is incorrect.
+
+### Size
+
+The giant Pacific octopus (Enteroctopus dofleini) is often cited as the largest octopus species. Adults usually weigh 10–50 kg (22–110 lb), with an arm span of up to 4.8 m (16 ft). The largest specimen of this species to be scientifically documented reached a live mass of 71 kg (157 lb). Much larger sizes have been claimed: one specimen was recorded as 600 lb (270 kg) with an arm span of 32 ft (9.8 m). A carcass of the seven-arm octopus, Haliphron atlanticus, weighed 61 kg (134 lb) and was estimated to have had a live mass of 75 kg (165 lb). The smallest species is Octopus wolfi, which is around 2.5 cm (1 in) and weighs less than 1 g (0.035 oz).
+
+### External characteristics
+
+The octopus has an elongated body that is bilaterally symmetrical along its dorso-ventral (back to belly) axis; the head and foot are on the ventral side, but act as the anterior (front). The head contains both the mouth and the brain. The mouth has a sharp chitinous beak and is surrounded by and underneath the foot, which evolved into flexible, prehensile limbs, known as "arms", which are attached to each other near their base by a webbed structure. The arms can be described based on side and sequence position (such as L1, R1, L2, R2) and divide into four pairs. The two rear appendages are generally used to walk on the sea floor, while the other six are used to forage for food. The bulbous and hollow mantle is fused to the back of the head and contains most of the vital organs. The mantle also has a cavity with muscular walls and a pair of gills; it is connected to the exterior by a funnel or siphon.
+
+The skin consists of a thin epidermis with mucous cells and sensory cells and a fibrous dermis made of collagen and containing various cells that allow colour change. Most of the body is made of soft tissue, allowing it to squeeze through tiny gaps; even the larger species can pass through a gap little more than 2.5 cm (1 in) in diameter. Lacking skeletal support, the arms work as muscular hydrostats and feature longitudinal, transverse, and circular muscles around a central axial nerve. They can squash and stretch, coil at any place in any direction or stiffen.
+
+The interior surfaces of the arms are covered with circular, adhesive suckers. The suckers allow the octopus to secure itself in place or to handle objects. Each sucker is typically circular and bowl-like and has two distinct parts: an outer disc-shaped infundibulum and an inner cup-like acetabulum, both of which are thick muscles covered in connective tissue. A chitinous cuticle lines the outer surface. When a sucker attaches to a surface, the orifice between the two structures is sealed and the infundibulum flattens. Muscle contractions allow for attachment and detachment. Each of the eight arms senses and responds to light, allowing the octopus to control its limbs even if its head is obscured.
+
+The cranium has two cartilaginous capsules each containing one large eye, which resembles those of fish. The cornea is formed from a translucent epidermal layer; the slit-shaped pupil forms a hole in the iris just behind the cornea. The lens hangs behind the pupil; photoreceptive retinal cells line the back. The pupil can expand and contract; a retinal pigment screens incident light in bright conditions.
+
+Some species differ in form from the typical body shape. Basal species, the Cirrina, have gelatinous bodies with two fins located above the eyes, an internal shell and mostly webbed arms that are lined with fleshy papillae or cirri underneath.
+
+License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Edited for reading; links, citations and media omitted.

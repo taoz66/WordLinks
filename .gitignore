@@ -1,0 +1,13 @@
+.build/
+build/
+.swiftpm/
+.DS_Store
+.AppleDouble
+.LSOverride
+__pycache__/
+*.py[cod]
+DerivedData/
+xcuserdata/
+*.xcuserstate
+*.swp
+*.swo

@@ -1,0 +1,158 @@
+{
+  "id": "global-voices-reading-2026-11-v1",
+  "folderName": "Global Voices",
+  "collectionURL": "https://globalvoices.org/",
+  "reviewed_on": "2026-11-11",
+  "articles": [
+    {
+      "id": "70DCBE95-0873-5A8C-A32E-4C2F900A0892",
+      "title": "A Korean-Chinese woman’s handmade Yanbian-style water tofu symbolizes family unity",
+      "chinese_topic": "延边水豆腐与家庭团聚",
+      "authors": [
+        "Jo Carter"
+      ],
+      "published_on": "2026-01-21",
+      "publisher": "Global Voices",
+      "source_url": "https://globalvoices.org/2026/01/21/a-korean-chinese-womens-handmade-yanbian-style-water-tofu-symbolizes-family-unity/",
+      "retrieval_url": "https://globalvoices.org/2026/01/21/a-korean-chinese-womens-handmade-yanbian-style-water-tofu-symbolizes-family-unity/",
+      "license": "CC BY 3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0/",
+      "rights_policy_url": "https://globalvoices.org/about/global-voices-attribution-policy/",
+      "license_evidence": "Article footer links CC BY 3.0; publisher attribution policy covers original Global Voices text in any medium, including adaptations and commercial reuse. No partner-republication notice found in selected article.",
+      "difficulty_estimate": "B1–B2",
+      "selection_note": "制作过程、感官描写、家庭文化；首选。",
+      "changes": "Converted from HTML to Markdown; photographs, captions and embedded media omitted. Original article wording retained. Inline link destinations are omitted from the printed body (labels and numeric citations retained); original links remain available in the source article. Blockquotes are presented as ordinary paragraphs, and redundant emphasis markers were normalized.",
+      "retrieved_on": "2026-11-11",
+      "source_sha256": "3462fb7ae9ede2986210d461fdb9adab8d7b3b60afe86187c5efdfd6b858d02f",
+      "word_count_approx": 756,
+      "bundled_markdown_sha256": "55ecf224517f583caa13daac5c447bde8bba5e94fbfb141fe2679a1d3bb8c3a2",
+      "key": "gv-yanbian-tofu",
+      "file": "gv-yanbian-tofu.md",
+      "sourceURL": "https://globalvoices.org/2026/01/21/a-korean-chinese-womens-handmade-yanbian-style-water-tofu-symbolizes-family-unity/",
+      "previousMarkdownSHA256": [
+        "09f815fe252a8b0cb386fa28c787d595640d8e9fc91593f07d2f59de80579272",
+        "7e0ad23c0fc672df937b3024fa117b770bb7359bfb976331cc223541348b3787"
+      ]
+    },
+    {
+      "id": "0FE2C1A3-3F4C-5A3C-A1D9-EABD4B411520",
+      "title": "The dreamer who wants the world to read Nepali literature",
+      "chinese_topic": "让世界读到尼泊尔文学",
+      "authors": [
+        "Sangita Swechcha"
+      ],
+      "published_on": "2026-11-09",
+      "publisher": "Global Voices",
+      "source_url": "https://globalvoices.org/2026/11/09/the-dreamer-who-wants-the-world-to-read-nepali-literature/",
+      "retrieval_url": "https://globalvoices.org/2026/11/09/the-dreamer-who-wants-the-world-to-read-nepali-literature/",
+      "license": "CC BY 3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0/",
+      "rights_policy_url": "https://globalvoices.org/about/global-voices-attribution-policy/",
+      "license_evidence": "Article footer links CC BY 3.0; publisher attribution policy covers original Global Voices text in any medium, including adaptations and commercial reuse. No partner-republication notice found in selected article.",
+      "difficulty_estimate": "B2",
+      "selection_note": "阅读推广、图书馆、跨文化交流；首选。",
+      "changes": "Converted from HTML to Markdown; photographs, captions and embedded media omitted. Original article wording retained. Inline link destinations are omitted from the printed body (labels and numeric citations retained); original links remain available in the source article. Blockquotes are presented as ordinary paragraphs, and redundant emphasis markers were normalized.",
+      "retrieved_on": "2026-11-11",
+      "source_sha256": "4c65b002e4d50dd6bb20ffad453d487f8629ed3a18d851e84b975566b071cf6b",
+      "word_count_approx": 1189,
+      "bundled_markdown_sha256": "a68dd6f79c2811d3572e5f98fd196cd435e1db29fc3e034fed9fcafc5a63adbf",
+      "key": "gv-nepali-literature",
+      "file": "gv-nepali-literature.md",
+      "sourceURL": "https://globalvoices.org/2026/11/09/the-dreamer-who-wants-the-world-to-read-nepali-literature/",
+      "previousMarkdownSHA256": [
+        "a001905ea5ebb1fe5a859242d8857faa5779778661f571e12b063853c778ff53",
+        "ab7ce40205803ee579d05b61f6496f6e53802b26a86785b311996416b6676b60"
+      ]
+    },
+    {
+      "id": "38037A2B-4124-5BEA-8B62-540C89EC463F",
+      "title": "How a community-led campaign is helping save Nigeria’s Kam language",
+      "chinese_topic": "社区如何保护 Kam 语言",
+      "authors": [
+        "Abdulrosheed Fadipe"
+      ],
+      "published_on": "2026-08-03",
+      "publisher": "Global Voices",
+      "source_url": "https://globalvoices.org/2026/08/03/how-a-community-led-campaign-is-helping-save-nigerias-kam-language/",
+      "retrieval_url": "https://globalvoices.org/2026/08/03/how-a-community-led-campaign-is-helping-save-nigerias-kam-language/",
+      "license": "CC BY 3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0/",
+      "rights_policy_url": "https://globalvoices.org/about/global-voices-attribution-policy/",
+      "license_evidence": "Article footer links CC BY 3.0; publisher attribution policy covers original Global Voices text in any medium, including adaptations and commercial reuse. No partner-republication notice found in selected article.",
+      "difficulty_estimate": "B2–C1",
+      "selection_note": "语言保护、社区参与、访谈问答，概念略多。",
+      "changes": "Converted from HTML to Markdown; photographs, captions and embedded media omitted. Original article wording retained. The introductory Spotlight-series/donation promotion was omitted. Inline link destinations are omitted from the printed body (labels and numeric citations retained); original links remain available in the source article. Blockquotes are presented as ordinary paragraphs, and redundant emphasis markers were normalized.",
+      "retrieved_on": "2026-11-11",
+      "source_sha256": "f59cf63f7a212a7ae31a2d4d618874147d078361146ba36dd82074b6e29441fa",
+      "word_count_approx": 1520,
+      "bundled_markdown_sha256": "41e5af9f94d07a6a9bbb162b0c3ac8c0e46331d81f450c6723ee03a812cbd836",
+      "key": "gv-kam-language",
+      "file": "gv-kam-language.md",
+      "sourceURL": "https://globalvoices.org/2026/08/03/how-a-community-led-campaign-is-helping-save-nigerias-kam-language/",
+      "previousMarkdownSHA256": [
+        "84bc9e32922e971453b850f898f32e548a9e8b0880c941ad8d90cfc759f1bd1c",
+        "357a06db62e3af8928787cf409f1faeef4f05f22873db1c7e7639674e3fada60"
+      ]
+    },
+    {
+      "id": "0D6B0A34-ECE7-5212-A456-319D4B68692C",
+      "title": "As Casablanca’s music scene grows, its musicians struggle",
+      "chinese_topic": "卡萨布兰卡音乐人的工作与生活",
+      "authors": [
+        "Badr Sellak"
+      ],
+      "published_on": "2026-09-13",
+      "publisher": "Global Voices",
+      "source_url": "https://globalvoices.org/2026/09/13/as-casablancas-music-scene-grows-its-musicians-struggle/",
+      "retrieval_url": "https://globalvoices.org/2026/09/13/as-casablancas-music-scene-grows-its-musicians-struggle/",
+      "license": "CC BY 3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0/",
+      "rights_policy_url": "https://globalvoices.org/about/global-voices-attribution-policy/",
+      "license_evidence": "Article footer links CC BY 3.0; publisher attribution policy covers original Global Voices text in any medium, including adaptations and commercial reuse. No partner-republication notice found in selected article.",
+      "difficulty_estimate": "B2–C1",
+      "selection_note": "新闻特写、城市文化、零工与收入，描写较丰富。",
+      "changes": "Converted from HTML to Markdown; photographs, captions and embedded media omitted. Original article wording retained. Inline link destinations are omitted from the printed body (labels and numeric citations retained); original links remain available in the source article. Blockquotes are presented as ordinary paragraphs, and redundant emphasis markers were normalized.",
+      "retrieved_on": "2026-11-11",
+      "source_sha256": "ec36f8b3aa0a574eaa84f3f857e160fe1901b8208e4443ee55a79a015c143d8d",
+      "word_count_approx": 1342,
+      "bundled_markdown_sha256": "875b5859f0968faf454852e34d6af1431804f94e862ba6f304ed5996b35ad352",
+      "key": "gv-casablanca-musicians",
+      "file": "gv-casablanca-musicians.md",
+      "sourceURL": "https://globalvoices.org/2026/09/13/as-casablancas-music-scene-grows-its-musicians-struggle/",
+      "previousMarkdownSHA256": [
+        "cd6640a50c238f971713f355ea6047718738a3b4b2e62f89844547f49f2db3d9",
+        "a2ed52f314c2d4c88c7adc32357eae928cd5147c75c4088335502665d87e5b83"
+      ]
+    },
+    {
+      "id": "A5DC511E-D512-52E7-95CC-8C4AB504F2C4",
+      "title": "How one Haitian entrepreneur found success by supporting all things local",
+      "chinese_topic": "海地创业者与本地产品",
+      "authors": [
+        "Jude Pierre Louis"
+      ],
+      "published_on": "2026-10-30",
+      "publisher": "Global Voices",
+      "source_url": "https://globalvoices.org/2026/10/30/how-one-haitian-entrepreneur-found-success-by-supporting-all-things-local/",
+      "retrieval_url": "https://globalvoices.org/2026/10/30/how-one-haitian-entrepreneur-found-success-by-supporting-all-things-local/",
+      "license": "CC BY 3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0/",
+      "rights_policy_url": "https://globalvoices.org/about/global-voices-attribution-policy/",
+      "license_evidence": "Article footer links CC BY 3.0; publisher attribution policy covers original Global Voices text in any medium, including adaptations and commercial reuse. No partner-republication notice found in selected article.",
+      "difficulty_estimate": "B2–C1",
+      "selection_note": "创业、本地食品、供应链和社会生活。",
+      "changes": "Converted from HTML to Markdown; photographs, captions and embedded media omitted. Original article wording retained. Inline link destinations are omitted from the printed body (labels and numeric citations retained); original links remain available in the source article. Blockquotes are presented as ordinary paragraphs, and redundant emphasis markers were normalized.",
+      "retrieved_on": "2026-11-11",
+      "source_sha256": "b00dda5a9e674e4af230bc09f76d77d9b67b58502bdc77ccbc4d1b1f59388113",
+      "word_count_approx": 1108,
+      "bundled_markdown_sha256": "b4ddde7797d819b555d72b00f575848aee07747af415b68d1aa63d014193219d",
+      "key": "gv-haitian-local-business",
+      "file": "gv-haitian-local-business.md",
+      "sourceURL": "https://globalvoices.org/2026/10/30/how-one-haitian-entrepreneur-found-success-by-supporting-all-things-local/",
+      "previousMarkdownSHA256": [
+        "b771aa0648c0658cdd0576b98b64524405eababf36a4334d752bd9daea60dae6",
+        "0ca7ced7cbf7e07daceaf8abc294ff99bc777796722e39890681f4ad28b725d3"
+      ]
+    }
+  ]
+}
