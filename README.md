@@ -1,15 +1,19 @@
 <div align="center">
+  <img src="docs/images/app-icon.png" width="96" alt="WordLinks App Icon" />
   <h1>WordLinks (词文库)</h1>
   <p>
     <strong>Native macOS English Reading Library &amp; Contextual Vocabulary Builder</strong><br />
     Read continuously, save contextual word cards, and explore interactive AI-powered intensive reading.
   </p>
   <p>
-    <a href="README.md">English</a> · <a href="README.zh-CN.md"><strong>简体中文</strong></a>
+    <a href="README.md"><strong>English</strong></a> · <a href="README.zh-CN.md">简体中文</a>
   </p>
   <p>
     <a href="https://github.com/taoz66/WordLinks/releases/latest">
       <img src="https://img.shields.io/badge/Download-macOS%20DMG-blue?style=for-the-badge&logo=apple" alt="Download DMG" />
+    </a>
+    <a href="https://github.com/taoz66/WordLinks/actions/workflows/ci.yml">
+      <img src="https://img.shields.io/github/actions/workflow/status/taoz66/WordLinks/ci.yml?branch=main&style=for-the-badge&label=CI" alt="CI Status" />
     </a>
     <img src="https://img.shields.io/badge/macOS-14.0%2B-lightgrey?style=for-the-badge" alt="macOS 14.0+" />
     <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="MIT License" />
@@ -22,7 +26,7 @@
 
 <div align="center">
   <img src="docs/images/preview-reader.png" width="820" alt="WordLinks Reader Interface" />
-  <p><em>Three-column native reader with continuous typography, bundled open-licensed library, and one-click Focus / Intensive modes.</em></p>
+  <p><em>Native continuous reader with contextual vocabulary highlights, bundled open-licensed library, and one-click Focus / Intensive modes.</em></p>
 </div>
 
 ---
@@ -109,8 +113,8 @@ WordLinks ships with **50 curated, reading-friendly articles** cleaned of inline
 
 ## Documentation
 
-- [Product Conventions (中文)](docs/产品约定.md)
-- [Architecture & Maintenance (中文)](docs/架构与维护.md)
+- [User Guide](docs/user-guide.md) ([中文](docs/user-guide.zh-CN.md))
+- [Architecture & Development](docs/architecture.md) ([中文](docs/architecture.zh-CN.md))
 - [ChatGPT OAuth Integration](docs/chatgpt-integration.md)
 - [Article Templates (EN / 中文)](docs/article-templates/article-template.en.md)
 
@@ -118,4 +122,4 @@ WordLinks ships with **50 curated, reading-friendly articles** cleaned of inline
 
 ## License
 
-The source code, build scripts, and documentation of WordLinks are licensed under the [MIT License](LICENSE). Bundled linguistic databases and open-licensed reading articles retain their respective licenses under `Sources/ReadingToolDaily/Resources/`.
+The source code, build scripts, and documentation of WordLinks are licensed under the [MIT License](LICENSE). Bundled linguistic databases and open-licensed reading articles retain their respective licenses under `Sources/WordLinks/Resources/`.

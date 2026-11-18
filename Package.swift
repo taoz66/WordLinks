@@ -2,17 +2,17 @@
 import PackageDescription
 
 let package = Package(
-    name: "ReadingToolDaily",
+    name: "WordLinks",
     platforms: [.macOS(.v14)],
     products: [
-        .executable(name: "ReadingToolDaily", targets: ["ReadingToolDaily"])
+        .executable(name: "WordLinks", targets: ["WordLinks"])
     ],
     dependencies: [
         .package(url: "https://github.com/swiftlang/swift-markdown.git", exact: "0.5.0")
     ],
     targets: [
         .systemLibrary(name: "CSQLite", path: "Sources/CSQLite"),
-        .executableTarget(name: "ReadingToolDaily", dependencies: [
+        .executableTarget(name: "WordLinks", dependencies: [
             "CSQLite", .product(name: "Markdown", package: "swift-markdown")
         ], resources: [
             .copy("Resources/Licensed"),
@@ -21,7 +21,7 @@ let package = Package(
             .copy("Resources/Language"),
             .copy("Resources/ThirdPartyNotices")
         ]),
-        .testTarget(name: "ReadingToolDailyTests", dependencies: ["ReadingToolDaily"])
+        .testTarget(name: "WordLinksTests", dependencies: ["WordLinks"])
     ],
     swiftLanguageModes: [.v5]
 )

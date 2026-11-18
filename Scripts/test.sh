@@ -35,7 +35,7 @@ env DEVELOPER_DIR="$TASK_XCODE" SDKROOT="$TASK_SDK" \
 
 TASK_BIN_DIR="$(env DEVELOPER_DIR="$TASK_XCODE" SDKROOT="$TASK_SDK" \
     "$LOCAL_TOOLS/usr/bin/swift" build --build-system native --sdk "$TASK_SDK" --show-bin-path)"
-BUNDLE="$TASK_BIN_DIR/ReadingToolDailyPackageTests.xctest"
+BUNDLE="$TASK_BIN_DIR/WordLinksPackageTests.xctest"
 
 run_xctest() {
     env DEVELOPER_DIR="$TASK_XCODE" \
@@ -50,7 +50,7 @@ if [[ "$#" -eq 0 ]]; then
 fi
 
 typeset -a ALL_TEST_CLASSES
-for file in "$ROOT"/Tests/ReadingToolDailyTests/*Tests.swift(N); do
+for file in "$ROOT"/Tests/WordLinksTests/*Tests.swift(N); do
     ALL_TEST_CLASSES+=("${${file:t}%.swift}")
 done
 
@@ -61,16 +61,16 @@ for arg in "$@"; do
             [[ -z "$item" ]] && continue
             if [[ "$item" == *.* || "$item" == */* ]]; then
                 qualified="$item"
-                [[ "$qualified" != *.* ]] && qualified="ReadingToolDailyTests.$qualified"
+                [[ "$qualified" != *.* ]] && qualified="WordLinksTests.$qualified"
                 TARGETS+=("$qualified")
             elif (( ${ALL_TEST_CLASSES[(Ie)$item]} )); then
-                TARGETS+=("ReadingToolDailyTests.$item")
+                TARGETS+=("WordLinksTests.$item")
             else
                 typeset -a matched
                 matched=()
                 for cls in "${ALL_TEST_CLASSES[@]}"; do
                     if [[ "$cls" == *"$item"* ]]; then
-                        matched+=("ReadingToolDailyTests.$cls")
+                        matched+=("WordLinksTests.$cls")
                     fi
                 done
                 if [[ "${#matched[@]}" -eq 0 ]]; then

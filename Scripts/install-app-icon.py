@@ -48,6 +48,10 @@ def main() -> int:
         info["CFBundleIconFile"] = destination.name
         # This installer supplies a static .icns, not a compiled native .icon.
         info.pop("CFBundleIconName", None)
+        info.pop("WordlinksNativeLayeredIcon", None)
+        assets_car = resources / "Assets.car"
+        if assets_car.is_file():
+            assets_car.unlink()
         with info_path.open("wb") as stream:
             plistlib.dump(info, stream, sort_keys=False)
         # Let Finder and Icon Services notice the icon in an existing bundle.

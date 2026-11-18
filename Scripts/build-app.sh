@@ -51,9 +51,11 @@ MACOS="$CONTENTS/MacOS"
 mkdir -p "$MACOS"
 # Replace the executable atomically so rebuilding a running app does not alter
 # the signed pages that macOS has already mapped into the old process.
-cp "$BIN_DIR/ReadingToolDaily" "$MACOS/ReadingToolDaily.new"
-mv -f "$MACOS/ReadingToolDaily.new" "$MACOS/ReadingToolDaily"
+cp "$BIN_DIR/WordLinks" "$MACOS/WordLinks.new"
+mv -f "$MACOS/WordLinks.new" "$MACOS/WordLinks"
+rm -f "$MACOS/ReadingToolDaily" "$MACOS/ReadingToolDaily.new"
 mkdir -p "$CONTENTS/Resources"
+rm -rf "$CONTENTS/Resources/ReadingToolDaily_ReadingToolDaily.bundle"
 for bundle in "$BIN_DIR"/*.bundle(N); do
     rm -rf "$CONTENTS/Resources/$(basename "$bundle")"
     ditto "$bundle" "$CONTENTS/Resources/$(basename "$bundle")"
@@ -69,7 +71,7 @@ cat > "$CONTENTS/Info.plist" <<'PLIST'
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-    <key>CFBundleExecutable</key><string>ReadingToolDaily</string>
+    <key>CFBundleExecutable</key><string>WordLinks</string>
     <key>CFBundleIdentifier</key><string>com.readingtool.daily</string>
     <key>CFBundleName</key><string>Wordlinks</string>
     <key>CFBundleDisplayName</key><string>Wordlinks</string>

@@ -1,4 +1,5 @@
 <div align="center">
+  <img src="docs/images/app-icon.png" width="96" alt="WordLinks 应用图标" />
   <h1>WordLinks（词文库）</h1>
   <p>
     <strong>原生 macOS 英语连续阅读与语境词语积累工具</strong><br />
@@ -11,6 +12,9 @@
     <a href="https://github.com/taoz66/WordLinks/releases/latest">
       <img src="https://img.shields.io/badge/下载安装包-macOS%20DMG-blue?style=for-the-badge&logo=apple" alt="下载 DMG" />
     </a>
+    <a href="https://github.com/taoz66/WordLinks/actions/workflows/ci.yml">
+      <img src="https://img.shields.io/github/actions/workflow/status/taoz66/WordLinks/ci.yml?branch=main&style=for-the-badge&label=CI" alt="CI 状态" />
+    </a>
     <img src="https://img.shields.io/badge/macOS-14.0%2B-lightgrey?style=for-the-badge" alt="macOS 14.0+" />
     <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="MIT License" />
   </p>
@@ -21,8 +25,8 @@
 ## 应用预览
 
 <div align="center">
-  <img src="docs/images/preview-reader.png" width="820" alt="词文库阅读界面预览" />
-  <p><em>原生三栏连续阅读界面：内置 50 篇开放许可精选文章，支持一键切换专注阅读与双语精读模式。</em></p>
+  <img src="docs/images/preview-reader.zh-CN.png" width="820" alt="词文库阅读界面预览" />
+  <p><em>原生连续阅读界面：内置 50 篇开放许可精选文章，支持语境划词高亮、专注阅读与双语精读模式。</em></p>
 </div>
 
 ---
@@ -53,11 +57,11 @@
   <table>
     <tr>
       <td align="center" width="50%">
-        <img src="docs/images/preview-ai-settings.png" width="100%" alt="AI 服务配置界面" />
+        <img src="docs/images/preview-ai-settings.zh-CN.png" width="100%" alt="AI 服务配置界面" />
         <br /><sub><b>三大 AI 服务接入与智能预填开关</b></sub>
       </td>
       <td align="center" width="50%">
-        <img src="docs/images/preview-appearance.png" width="100%" alt="外观与排版设置" />
+        <img src="docs/images/preview-appearance.zh-CN.png" width="100%" alt="外观与排版设置" />
         <br /><sub><b>中英文界面、4 套主题图标与阅读排版定制</b></sub>
       </td>
     </tr>
@@ -109,8 +113,8 @@ swift test
 
 ## 详细文档
 
-- [产品约定](docs/产品约定.md)
-- [架构与维护](docs/架构与维护.md)
+- [使用指南](docs/user-guide.zh-CN.md) ([English](docs/user-guide.md))
+- [架构与开发指南](docs/architecture.zh-CN.md) ([English](docs/architecture.md))
 - [ChatGPT OAuth 集成说明](docs/chatgpt-integration.md)
 - [文章导入模板（中文 / EN）](docs/article-templates/article-template.zh-Hans.md)
 
@@ -118,4 +122,4 @@ swift test
 
 ## 开源许可
 
-WordLinks 的原创源代码、构建脚本与项目文档采用 [MIT License](LICENSE) 开源协议；随包内置的英文词形数据库与 50 篇开放许可文章各自保留其原始开源/CC 许可协议与声明。
+WordLinks 的原创源代码、构建脚本与项目文档采用 [MIT License](LICENSE) 开源协议；随包内置的英文词形数据库与 50 篇开放许可文章各自保留其原始开源/CC 许可协议与声明（位于 `Sources/WordLinks/Resources/`）。
